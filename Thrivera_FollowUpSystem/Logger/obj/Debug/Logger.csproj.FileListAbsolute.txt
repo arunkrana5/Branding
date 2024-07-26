@@ -1,0 +1,9 @@
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\bin\Debug\Logger.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\bin\Debug\Logger.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\obj\Debug\Logger.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\obj\Debug\Logger.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\bin\Debug\Infrastructure.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\bin\Debug\Infrastructure.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+E:\WVS2019\Thrivera_FollowUpSystem\Logger\obj\Debug\Logger.csproj.CopyComplete

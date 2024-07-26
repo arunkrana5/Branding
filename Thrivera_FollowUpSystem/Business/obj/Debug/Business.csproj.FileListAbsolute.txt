@@ -1,0 +1,15 @@
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Business.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Business.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Business\obj\Debug\Business.csproj.AssemblyReference.cache
+E:\WVS2019\Thrivera_FollowUpSystem\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+E:\WVS2019\Thrivera_FollowUpSystem\Business\obj\Debug\Business.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Business\obj\Debug\Business.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Common.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Database.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Infrastructure.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Logger.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Common.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Database.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Infrastructure.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Business\bin\Debug\Logger.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Business\obj\Debug\Business.csproj.CopyComplete

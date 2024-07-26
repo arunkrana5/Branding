@@ -1,0 +1,5 @@
+E:\WVS2019\Thrivera_FollowUpSystem\Infrastructure\bin\Debug\Infrastructure.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\WVS2019\Thrivera_FollowUpSystem\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+E:\WVS2019\Thrivera_FollowUpSystem\Infrastructure\obj\Debug\Infrastructure.dll
+E:\WVS2019\Thrivera_FollowUpSystem\Infrastructure\obj\Debug\Infrastructure.pdb
